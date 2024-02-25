@@ -20,6 +20,6 @@ I focus on making high-quality decisions
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishan-kant-2828aa217/)
-[![leetcode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/krishan_kant15/)
+[![leetcode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/krishan_kant15/)
 
 
