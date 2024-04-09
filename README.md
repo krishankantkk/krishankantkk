@@ -1,10 +1,9 @@
 
 # Hi, I'm Krishan Kant! 👋
 
-
 ## 🚀 About Me
 
-I'm Krishan Kant from NIT Jaipur, and I possess many skills that could greatly benefit your organization. Proficient in **C/C++, Python, and Javascript**, and  I have Solved 400+ DSA problems on Leetcode, GFG, and Hakerrank. I offer strong programming abilities. My expertise in **HTML, CSS, ReactJs**, and **Bootstrap** equips me for front-end development, while my grasp of **SQL and Nodejs** empowers me in back-end and data tools.
+I'm Krishan Kant from NIT Jaipur, and I possess many skills that could greatly benefit your organization. Proficient in **C/C++, and Javascript**, and  I have Solved 400+ DSA problems on Leetcode, GFG, and Hakerrank. I offer strong programming abilities. My expertise in **HTML, CSS, Javascript, Typescript, ReactJs, Nextjs, TailwindCSS**, and **Bootstrap** equips me for front-end development, while my grasp of **SQL , MongoDB, Nodejs** empowers me in back-end and data tools.
 
 My grasp of **Data Structures, Algorithms, OOPs, and GitHub** highlights my commitment to crafting efficient and sustainable code. I'm confident that these skills, along with my dedication to continuous improvement, would make me an invaluable addition to your team.
 
